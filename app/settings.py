@@ -22,6 +22,7 @@ class Settings:
                 "DeepSeek": "",
                 "GPT": "",
                 "Claude": "",
+                "Image_Generation": "",
             },
             "default_provider": "",
             "theme": "dark",
