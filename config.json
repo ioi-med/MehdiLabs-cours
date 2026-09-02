@@ -1,0 +1,22 @@
+{
+  "api_keys": {
+    "Mistral": "",
+    "Gemini": "",
+    "DeepSeek": "",
+    "GPT": "",
+    "Claude": ""
+  },
+  "default_provider": "",
+  "theme": "dark",
+  "language": "fr",
+  "auto_save_interval": 30,
+  "editor_font_size": 14,
+  "models": {
+    "Mistral": "mistral-small-latest",
+    "Gemini": "gemini-2.0-flash",
+    "DeepSeek": "deepseek-chat",
+    "GPT": "gpt-4o",
+    "Claude": "claude-sonnet-4-20250514"
+  },
+  "recent_files": []
+}

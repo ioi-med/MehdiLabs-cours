@@ -1,0 +1,8 @@
+# Fichier de configuration des cles API
+# Renseignez vos cles API ci-dessous apres le signe '='
+
+Mistral=
+Gemini=
+DeepSeek=
+GPT=
+Claude=
